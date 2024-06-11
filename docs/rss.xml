@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://baifang666.github.io</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://baifang666.github.io</link></image><lastBuildDate>Mon, 10 Jun 2024 16:23:30 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>test</title><link>https://baifang666.github.io/post/test.html</link><description>Hello World！。</description><guid isPermaLink="true">https://baifang666.github.io/post/test.html</guid><pubDate>Mon, 10 Jun 2024 14:45:04 +0000</pubDate></item><item><title>初中数学代数公式</title><link>https://baifang666.github.io/post/chu-zhong-shu-xue-dai-shu-gong-shi.html</link><description>## 前言&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://baifang666.github.io</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://baifang666.github.io</link></image><lastBuildDate>Tue, 11 Jun 2024 13:50:21 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>test</title><link>https://baifang666.github.io/post/test.html</link><description>Hello World！。</description><guid isPermaLink="true">https://baifang666.github.io/post/test.html</guid><pubDate>Mon, 10 Jun 2024 14:45:04 +0000</pubDate></item><item><title>初中数学代数公式</title><link>https://baifang666.github.io/post/chu-zhong-shu-xue-dai-shu-gong-shi.html</link><description>## 前言&#13;
 &#13;
 不是为了应付考试，是为了增长知识&#13;
 &#13;
@@ -11,9 +11,6 @@ $$ \frac{2}{\frac{1}{a}+\frac{1}{b}}\le \sqrt{ab} \le \frac{a+b}{2} \le \sqrt{\f
 $$ \frac{3}{\frac{1}{a}+\frac{1}{b}+\frac{1}{c}}\le \sqrt[3]{abc} \le \frac{a+b+c}{3} \le \sqrt{\frac{a^2+b^2+c^2}{3}} (当且仅当a=b=c时取等) $$&#13;
 &#13;
 $$ \frac{1}{\textstyle\sum_{i=1}^{n}\frac{1}{x_i}} \le \sqrt[n]{\textstyle\prod_{i=1}^{n}x_i } \le \frac{\textstyle\sum_{i=1}^{n}x_i }{n}\le  \sqrt{\frac{\textstyle\sum_{i=1}^{n}x_i^2 }{2} } (当且仅当a_1=a_2=...=a_n时取等) $$&#13;
-&#13;
-![QianJianTec1718028015265](https://github.com/baifang666/baifang666.github.io/assets/155365854/2a1dce0f-bc9c-4b6d-9fa7-ca4c39e36db1)&#13;
-&#13;
 &#13;
 （ $H_n$ 调和平均数， $G_n$ 几何平均数， $A_n$ 算术平均数， $Q_n$ 平方平均数）&#13;
 &#13;
@@ -32,14 +29,11 @@ $$\cfrac{a_1^2}{b_1} +\cfrac{a_2^2}{b_2} \ge \cfrac{\left(a_1+a_2\right) ^2}{b_1
 &#13;
 $$\cfrac{\left(\sum_{i=1}^{n}x_i\right) ^{m+1}}{\left(\sum_{i=1}^{n}y_i\right) ^{m}} \le \sum_{i=1}^{n}\cfrac{x_i^{m+1}}{y_i^m}$$&#13;
 &#13;
-![QianJianTec1718028171616](https://github.com/baifang666/baifang666.github.io/assets/155365854/926bda3c-edee-4c7d-8d09-15ea0e11d7cf )&#13;
-&#13;
 ## 恒等式&#13;
 ### n数完全平方&#13;
 $\left ( a+b \right ) ^2=a^2+2ab+b^2$&#13;
 $\left ( a+b+c \right ) ^2=a^2+b^2+c^2+2ab+2ac+2bc$&#13;
-$\left ( {\textstyle\sum_{i=1}^{n}}x_i  \right ) ^2={\textstyle\sum_{i=1}^{n}}x_i^2+2{\textstyle\sum_{1\le i&lt;  j\le n}}x_ix_j$&#13;
-![QianJianTec1718029093009](https://github.com/baifang666/baifang666.github.io/assets/155365854/0a2ef24f-1c80-4006-883f-c9066d5b7086)&#13;
+$\left ( \sum_{i=1}^{n}x_i  \right ) ^2=\sum_{i=1}^{n}x_i^2+2\sum_{1\le i&lt;  j\le n}x_ix_j$&#13;
 &#13;
 ### 二项式定理&#13;
 [牛顿](https://baike.baidu.com/item/%E7%89%9B%E9%A1%BF/5463?fromModule=lemma_inlink)以二项式定理作为基石发明出了[微积分](https://baike.baidu.com/item/%E5%BE%AE%E7%A7%AF%E5%88%86/6065?fromModule=lemma_inlink)。</description><guid isPermaLink="true">https://baifang666.github.io/post/chu-zhong-shu-xue-dai-shu-gong-shi.html</guid><pubDate>Mon, 10 Jun 2024 14:41:28 +0000</pubDate></item></channel></rss>
