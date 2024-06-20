@@ -1,5 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>白方</title><link>https://baifang666.github.io</link><description>理科生的博客之旅</description><copyright>白方</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.kkgithub.com/baifang666/baifang666.github.io/main/backup/avatar.jpg</url><title>avatar</title><link>https://baifang666.github.io</link></image><lastBuildDate>Wed, 19 Jun 2024 14:46:13 +0000</lastBuildDate><managingEditor>白方</managingEditor><ttl>60</ttl><webMaster>白方</webMaster><item><title>奇怪的悖论：工具箱是不是工具</title><link>https://baifang666.github.io/post/qi-guai-de-bei-lun-%EF%BC%9A-gong-ju-xiang-shi-bu-shi-gong-ju.html</link><description>　　你可能会说，工具箱不就是盛放工具的工具吗，怎么不算工具呢？那我问你，既然工具箱是工具，工具箱又能盛放工具，那么工具箱会不会盛放自己呢？又有谁会这么做呢？&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>白方</title><link>https://baifang666.github.io</link><description>理科生的博客之旅</description><copyright>白方</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.kkgithub.com/baifang666/baifang666.github.io/main/backup/avatar.jpg</url><title>avatar</title><link>https://baifang666.github.io</link></image><lastBuildDate>Thu, 20 Jun 2024 14:35:33 +0000</lastBuildDate><managingEditor>白方</managingEditor><ttl>60</ttl><webMaster>白方</webMaster><item><title>个人事情列表</title><link>https://baifang666.github.io/post/ge-ren-shi-qing-lie-biao.html</link><description>## 编程&#13;
+- [Github项目](https://zhuanlan.zhihu.com/p/558487364)&#13;
+- [C++那些事](https://github.com/Light-City/CPlusPlusThings)&#13;
+- [C++菜鸟教程](https://www.runoob.com/cplusplus/cpp-basic-syntax.html)&#13;
+## 阅读&#13;
+- [射雕英雄转](https://www.jinyongbook.com/xiudingban/shediaoyingxiongzhuan/146.html)&#13;
+- [提问的智慧](https://github.com/tvvocold/How-To-Ask-Questions-The-Smart-Way)&#13;
+## 学习&#13;
+- [古文观止](https://so.gushiwen.cn/wenyan/guanzhi.aspx)&#13;
+- [史记](https://so.gushiwen.cn/guwen/book_46653FD803893E4F9B29D6AEC1BFD4EA.aspx)&#13;
+## AI&#13;
+- [通义](https://tongyi.aliyun.com/qianwen/)&#13;
+- [Kimi](https://kimi.moonshot.cn/)&#13;
+- 。</description><guid isPermaLink="true">https://baifang666.github.io/post/ge-ren-shi-qing-lie-biao.html</guid><pubDate>Thu, 20 Jun 2024 14:35:03 +0000</pubDate></item><item><title>奇怪的悖论：工具箱是不是工具</title><link>https://baifang666.github.io/post/qi-guai-de-bei-lun-%EF%BC%9A-gong-ju-xiang-shi-bu-shi-gong-ju.html</link><description>　　你可能会说，工具箱不就是盛放工具的工具吗，怎么不算工具呢？那我问你，既然工具箱是工具，工具箱又能盛放工具，那么工具箱会不会盛放自己呢？又有谁会这么做呢？&#13;
 &#13;
 我们来看一下AI的答案：&#13;
 &gt; 要判断一个东西是否可以被称为“工具”，我们可以基于几个关键的特征进行考虑：&#13;
