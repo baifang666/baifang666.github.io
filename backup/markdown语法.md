@@ -63,7 +63,7 @@ detail
 
 <!-- 注释，不被显示 -->
 
-```markdown
+````markdown
 [官方教程](https://docs.github.com/zh/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 # 一级标题
 ## 二级标题
@@ -128,4 +128,4 @@ detail
 > 行动可能带来的负面潜在后果。
 
 <!-- 注释，不被显示 -->
-```
+````
